@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="0"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginTop="20dp"/>
+    <RatingBar
+        android:id="@+id/ratingBar01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView01"/>
+
+    <TextView
+        android:id="@+id/textView02"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="czeckBox"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/ratingBar01"
+        android:layout_marginTop="20dp"/>
+    <CheckBox
+        android:id="@+id/checkBox01"
+        android:text="Pole wyboru"
+        android:textSize="30sp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView02"
+        android:checked="true"
+        />
+
+    <TextView
+        android:id="@+id/textView03"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="czeckBox"
+        android:textSize="50sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/checkBox01"
+        android:layout_marginTop="20dp"/>
+    <RadioGroup
+        android:id="@+id/radioGroup01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#88BDC4"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/textView03"
+        android:layout_marginTop="20dp"
+        android:padding="20dp"
+        >
+
+        <RadioButton
+            android:id="@+id/rb01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wybór 01"
+            />
+        <RadioButton
+            android:id="@+id/rb02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wybór 01"
+            android:checked="true"/>
+        <RadioButton
+            android:id="@+id/rb03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Wybór 01"/>
+
+    </RadioGroup>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

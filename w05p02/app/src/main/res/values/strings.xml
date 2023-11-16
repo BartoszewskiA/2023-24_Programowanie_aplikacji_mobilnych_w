@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">w05p02</string>
+    <string name="tytul">Tytuł</string>
+    <string name="opis">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Maecenas ut congue odio. Duis non ligula ut elit dignissim rhoncus.
+        Pellentesque et lacus pellentesque ipsum pharetra sodales. Vivamus eu tortor nec
+        mauris pretium rhoncus in sed dolor. Nunc pretium venenatis viverra. Nam imperdiet.
+    </string>
+</resources>
