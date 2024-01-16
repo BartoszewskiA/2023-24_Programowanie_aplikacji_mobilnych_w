@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">w11p01</string>
+    <string name="Lorem">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum vitae neque placerat, aliquam urna in, commodo lectus. Phasellus quis tincidunt libero, et rhoncus risus. Suspendisse sit amet augue turpis. Sed dapibus gravida ex sit amet facilisis. Vestibulum viverra nisi elit, ut ullamcorper ipsum elementum eu. Cras tempor, elit id ornare convallis, risus sapien molestie diam, vitae porttitor purus metus sed libero. Curabitur venenatis, velit vel elementum aliquet, est eros rutrum magna, sit amet convallis orci leo quis ligula. Nullam non odio pharetra magna dictum porta a ac lorem. Nullam et efficitur orci. Vestibulum accumsan dui in nunc tincidunt, in consequat velit congue. Nulla a libero justo. Phasellus fermentum, felis nec convallis imperdiet, mauris enim vehicula arcu, sit amet dictum ligula erat eu tortor. Nunc sit amet diam quis velit ornare ornare. Curabitur sit amet leo neque.
+
+Donec a euismod nibh, sed accumsan quam. Sed felis ipsum, convallis a libero ut, eleifend hendrerit sem. Cras fringilla tortor sit amet dui congue tincidunt. Nulla mollis faucibus diam nec luctus. Donec malesuada vestibulum ex finibus pretium. Duis metus elit, elementum congue nisl quis, porta dictum nibh. Pellentesque sit amet aliquam enim. Duis consequat iaculis quam, non posuere nunc porttitor sed. Ut pellentesque nisl et ornare iaculis.
+
+Sed ut commodo magna. Etiam eu magna posuere ex accumsan congue. Vestibulum at tincidunt lacus. Donec ligula sem, auctor at placerat sit amet, dapibus consectetur mi. Phasellus vel dolor quis risus efficitur tempor ut sit amet elit. In consectetur ultrices lacus vitae pharetra. Ut consequat molestie pulvinar. Sed quis mi ac ex laoreet fermentum in ac leo.
+
+Sed sed orci maximus, sollicitudin velit id, cursus urna. Morbi eu nunc erat. Mauris ultrices ligula ut magna dignissim ultricies. Nam semper massa et laoreet sodales. Donec suscipit orci sodales lorem malesuada, eget finibus sem mattis. Morbi at odio vehicula, lacinia augue sit amet, efficitur dolor. In hac habitasse platea dictumst.
+    </string>
+</resources>
